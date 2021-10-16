@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-smartlocker-dev-195718-authRole",
+      "UnauthRoleArn": "arn:aws:iam::948494934800:role/amplify-smartlocker-dev-195718-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::948494934800:role/amplify-smartlocker-dev-195718-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-smartlocker-dev-195718-deployment",
+      "UnauthRoleName": "amplify-smartlocker-dev-195718-unauthRole",
+      "StackName": "amplify-smartlocker-dev-195718",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:948494934800:stack/amplify-smartlocker-dev-195718/d758eea0-2e6f-11ec-8798-0a267599de39",
+      "AmplifyAppId": "d11ctj4yianvv4"
+    }
+  }
+}
