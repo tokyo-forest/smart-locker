@@ -1,6 +1,6 @@
 {
   "auth": {
-    "smartlockerb1158910": {
+    "smartlockercfa42f6b": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
